@@ -37,8 +37,8 @@
  
 <h2>Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"></h2>
  
-<a align="center" href="https://github.com/merlin2x3">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=merlin2x3&layout=compact&langs_count=8&theme=algolia">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=merlin2x3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left">
+<a align="center" href="https://github.com/fernenfern">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fernenfern&layout=compact&langs_count=8&theme=algolia">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fernenfern&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left">
  </a>
 
